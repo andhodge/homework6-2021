@@ -138,8 +138,8 @@ header{
 /*Your code here again.*/ 
 @media screen and (prefers-reduced-motion: reduce){
   #logo{
-    -webkit-transition: none; /* sets to default setting */
-    transition: none;        /* sets to default setting */
+    -webkit-animation: none; /* sets to default setting */
+    animation: none;        /* sets to default setting */
     width: 420px; 
     opacity: 1;
    }
